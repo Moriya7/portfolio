@@ -75,6 +75,11 @@ main #main-latestwork-title {
     padding: var(--padding-default);
     text-align: center; 
     font-size: 22px;
+    
+}
+main #main-latestwork-title h2{
+    margin-top: 40px;
+    margin-bottom: 5px;
 }
 main #main-latestwork-images {
     padding: var(--padding-narrow);
@@ -171,8 +176,8 @@ main #main-images img{
 /* footer */
 #footer-sub{
     text-align: center;
-    font-size: 20px;
-    padding: 150px 30px;
+    font-size: 15px;
+    margin: 30px 30px;
 }
 
 @media(min-width: 768px){
